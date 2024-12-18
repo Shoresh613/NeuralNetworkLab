@@ -1,2 +1,3 @@
 # NeuralNetworkLab
-Space Invaders 
+## Space Invaders 
+See labb.ipynb for code, results and discussion.
